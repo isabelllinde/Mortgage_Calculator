@@ -15,6 +15,6 @@ it was accepted, it tells the total credit amount offered and the interest
 rate of the credit. 
 
 # Contributors
-Isabell Linde
-Xiaofei Li
-Yuhua Liao
+Isabell Linde<br/>
+Xiaofei Li<br/>
+Yuhua Liao<br/>
